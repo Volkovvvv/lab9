@@ -1,0 +1,33 @@
+span{
+    color:red;
+    font-size:50px;
+    
+}
+.top{
+    border-bottom:5px solid grey;
+   
+}
+body{
+    font-family: 'Sansita Swashed', cursive;
+    background-color:floralwhite;
+}
+.top{
+    text-align: center;
+}
+img{
+    margin:0 auto;
+    width: 400px;
+    height: 500px;
+    border:10px solid gold
+}
+.img{
+    text-align: center;
+    margin-top: 20px;
+}
+.bottom{
+    text-align: center;
+}
+.two{
+    color:greenyellow;
+    font-size:50px
+}
